@@ -96,7 +96,8 @@ Some images of frontend
 ![image](https://github.com/user-attachments/assets/36397e48-c783-4d4e-b6fc-899c65fd1db8)
 
 
-```
+---
+
 ## 📌 Future Enhancements
 - Integration with smart wearable devices.
 - AI-driven mental health support.
