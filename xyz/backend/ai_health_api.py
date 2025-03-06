@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Initialize Groq client with your API key
-client = Groq(api_key="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")
+client = Groq(api_key="<Create and add groq api key>")
 
 class Autoencoder(nn.Module):
     def __init__(self, input_dim):
