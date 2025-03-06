@@ -72,6 +72,8 @@ python backend/clustering_api.py
 streamlit run frontend/ai_health_ui.py
 ```
 Some images of frontend
+```
+
 ## Images
 ![image](https://github.com/user-attachments/assets/6f2f352f-ffea-4117-88f1-c1b681cfa077)
 ![image](https://github.com/user-attachments/assets/7ca61ac6-5496-4eaa-bf43-b627aa4cefc2)
@@ -79,7 +81,22 @@ Some images of frontend
 
 ---
 
+## 🌟 Details of score of heath metrics
 
+![image](https://github.com/user-attachments/assets/4ca3f5de-d569-45c4-89b9-890500c41eb9)
+
+![image](https://github.com/user-attachments/assets/8ce15682-fe7d-48a1-8a8c-dd71300bf9aa)
+
+![image](https://github.com/user-attachments/assets/c8acf2e8-33c7-4636-a3c7-a4dd7cc6b6d4)
+
+![image](https://github.com/user-attachments/assets/c36fc3fc-291a-4bc2-ace5-2c5090b95209)
+
+![image](https://github.com/user-attachments/assets/82a1aff4-a4c3-498b-8bb4-a333ccd3927c)
+
+![image](https://github.com/user-attachments/assets/36397e48-c783-4d4e-b6fc-899c65fd1db8)
+
+
+```
 ## 📌 Future Enhancements
 - Integration with smart wearable devices.
 - AI-driven mental health support.
