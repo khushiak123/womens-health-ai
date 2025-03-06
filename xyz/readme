@@ -27,3 +27,21 @@ A comprehensive AI-powered health assistant designed specifically for women's we
 python 3.8+
 pip
 virtual environment (recommended)
+
+## How to Run the application
+
+1.Install Dependencies:
+ pip install -r requirements.txt
+
+2. Start Backend Services
+  First, train the autoencoder model by running train_autoencoder.py:
+    python backend/train_autoencoder.py
+
+3. Start the main Flask API by running
+   python backend/ai_health_api.py
+
+4. Start the clustering service by running clustering_api.py:
+   python backend/clustering_api.py
+
+5. In a new terminal, run ai_health_ui.py:
+   streamlit run frontend/ai_health_ui.py
