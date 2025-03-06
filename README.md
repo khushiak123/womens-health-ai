@@ -72,7 +72,7 @@ python backend/clustering_api.py
 streamlit run frontend/ai_health_ui.py
 ```
 Some images of frontend
-```
+
 
 ## Images
 ![image](https://github.com/user-attachments/assets/6f2f352f-ffea-4117-88f1-c1b681cfa077)
